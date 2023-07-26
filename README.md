@@ -13,9 +13,9 @@ I squashed the history of most of my projects and put them in [an archive](https
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcubed3&layout=compact&bg_color=0,5938B6,CB5B5B&title_color=fff&text_color=fff&border_color=000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcubed3&layout=compact&bg_color=0,5938B6,CB5B5C&title_color=fff&text_color=fff&border_color=000" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zcubed3&hide_rank=true&bg_color=0,CB5B5B,5938B6&title_color=fff&text_color=fff&border_color=000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zcubed3&hide_rank=true&bg_color=0,CB5B5C,5938B6&title_color=fff&text_color=fff&border_color=000" />
 </a>
