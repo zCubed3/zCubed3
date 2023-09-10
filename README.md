@@ -5,6 +5,7 @@
 * [GPU-Grass](https://github.com/zCubed3/GPU-Grass) - A stylized grass system for Unity, not used in but developed for, [Strayed VR](https://store.steampowered.com/app/2359470/Strayed/) by Torched Games
 * [v502](https://github.com/zCubed3/v502) - A 6502 emulation toolchain, providing a custom emulator, assembler, and disassembler
 * [rt-everywhere](https://github.com/zCubed3/rt-everywhere) - A toy raytracer ported to some normal platforms and some odd ones!
+* [zealot-q2](https://github.com/zCubed3/zealot-q2) - A brand new Quake 2 source port dedicated to modernizing the engine (for personal usage)
 
 ---
 
