@@ -1,11 +1,10 @@
-# Hi I'm zCubed! :wave:
+# Hi, I'm Liam R (aka zCubed3) :wave:
 
 ### Projects
 * [project-archive](https://github.com/zCubed3/project-archive) - An archive of all my previously public projects
 * [GPU-Grass](https://github.com/zCubed3/GPU-Grass) - A stylized grass system for Unity, not used in but developed for, [Strayed VR](https://store.steampowered.com/app/2359470/Strayed/) by Torched Games
 * [v502](https://github.com/zCubed3/v502) - A 6502 emulation toolchain, providing a custom emulator, assembler, and disassembler
-* [rt-everywhere](https://github.com/zCubed3/rt-everywhere) - A toy raytracer ported to some normal platforms and some odd ones!
-* [zealot-q2](https://github.com/zCubed3/zealot-q2) - A brand new Quake 2 source port dedicated to modernizing the engine (for personal usage)
+* [rt-everywhere](https://github.com/zCubed3/rt-everywhere) - A toy raytracer written in C99, ported to some normal platforms and some odd ones!
 
 ---
 
@@ -15,9 +14,9 @@ I squashed the history of most of my projects and put them in [an archive](https
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcubed3&layout=compact&bg_color=0,5938B6,CB5B5C&title_color=fff&text_color=fff&border_color=000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcubed3&layout=compact&theme=dark" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zcubed3&hide_rank=true&bg_color=0,CB5B5C,5938B6&title_color=fff&text_color=fff&border_color=000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zcubed3&hide_rank=true&theme=dark" />
 </a>
