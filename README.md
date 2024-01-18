@@ -1,4 +1,4 @@
-# Hi, I'm Liam R (aka zCubed3) :wave:
+# Hi, I'm Liam Reese (aka zCubed3) :wave:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H5TD4WK)
 
