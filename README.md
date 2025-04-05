@@ -1,7 +1,5 @@
 # Hi, I'm Liam Reese (aka zCubed3) :wave:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H5TD4WK)
-
 ### Projects
 * [project-archive](https://github.com/zCubed3/project-archive) - An archive of all my previously public projects
 * [GPU-Grass](https://github.com/zCubed3/GPU-Grass) - A stylized grass system for Unity, not used in but developed for, [Strayed VR](https://strayedvr.com) by Crustacean Interactive
