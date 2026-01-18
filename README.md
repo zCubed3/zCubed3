@@ -7,13 +7,3 @@
 * [rt-everywhere](https://github.com/zCubed3/rt-everywhere) - A toy raytracer written in C99, ported to some normal platforms and some odd ones!
 * [zealot-q2](https://github.com/zCubed3/zealot-q2) - A fork of id Software's original Quake II source release, partially rewritten in C++, with some modern features added in
 * [asset-migrator](https://github.com/zCubed3/asset-migrator) - A basic utility written in Rust to more easily port mods between unrelated, decompiled unity projects
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcubed3&layout=compact&theme=dark" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zcubed3&hide_rank=true&theme=dark" />
-</a>
